@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GODOFTHUNDER/static/css/main.26f9b256.css",
+    "main.js": "/GODOFTHUNDER/static/js/main.af43f1c0.js",
+    "reactPlayerPreview.js": "/GODOFTHUNDER/static/js/reactPlayerPreview.075ed2a4.chunk.js",
+    "static/media/thor1.jpg": "/GODOFTHUNDER/static/media/thor1.e2c25d0113264853c7c9.jpg",
+    "index.html": "/GODOFTHUNDER/index.html",
+    "main.26f9b256.css.map": "/GODOFTHUNDER/static/css/main.26f9b256.css.map",
+    "main.af43f1c0.js.map": "/GODOFTHUNDER/static/js/main.af43f1c0.js.map",
+    "reactPlayerPreview.075ed2a4.chunk.js.map": "/GODOFTHUNDER/static/js/reactPlayerPreview.075ed2a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26f9b256.css",
+    "static/js/main.af43f1c0.js"
+  ]
+}
